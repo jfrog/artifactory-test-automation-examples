@@ -1,0 +1,1 @@
+# artifactory-test-automation-examples
