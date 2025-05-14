@@ -1,0 +1,10 @@
+{
+  "name": "{{package_name}}",
+  "version": "{{package_version}}",
+  "main": "index.js",
+  "scripts": {},
+  "license": "MIT",
+  "description": "A test npm package for Artifactory",
+  "keywords": ["test", "npm", "artifactory"],
+  "author": "{{author}}"
+}
